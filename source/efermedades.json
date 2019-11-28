@@ -1,0 +1,54 @@
+{
+	"Enfermedades":
+	{
+		"Gripe y resfriado común":
+		{
+			"Definicion": "Aunque muchos tipos de virus pueden causar un resfriado común, los rinovirus son los culpables más comunes. Un virus del resfriado entra en el cuerpo a través de la boca, los ojos o la nariz. El virus puede propagarse a través de gotitas en el aire cuando alguien que está enfermo tose, estornuda o habla. También se propaga por contacto mano a mano con alguien que tiene un resfriado o al compartir objetos contaminados, como utensilios, toallas, juguetes o teléfonos. Si te tocas los ojos, la nariz o la boca después de tal contacto o exposición, es probable que contraigas un resfriado.",
+			"Area afectada": "",
+			"Sintomas": 
+			{
+				"Area":
+				{
+					"Sintoma1": 
+				{
+					"PreguntaId":11,
+          "Calificacion":0.4
+				},
+					"Sintoma2": 
+					{
+
+					}
+				}
+			},
+			"Tratamiento":{
+				"T1":"Evitar fuentes que provoquen directamente la alergia.",
+				"T2":"Enjuague de senos paranasales (con solución salina).",
+				"T3":"Tabletas sublinguales.",
+				"T4":"Inmunoterapia (inyecciones para alergia)."
+			}
+		},
+		"Enfermedad2":
+		{
+			"Definicion": "",
+			"Area afectad": "",
+			"Sintomas": 
+			{
+				"Sintoma1": 
+				{
+
+				},
+				"Sintoma2": 
+				{
+
+				}
+			},
+			"Tratamiento":
+			{
+				"T1":"Evitar fuentes que provoquen directamente la alergia.",
+				"T2":"Enjuague de senos paranasales (con solución salina).",
+				"T3":"Tabletas sublinguales.",
+				"T4":"Inmunoterapia (inyecciones para alergia)."
+			}
+		}
+	}
+}
